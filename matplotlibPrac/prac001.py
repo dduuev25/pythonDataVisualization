@@ -11,5 +11,6 @@ pp.ylabel("square value",fontsize=12)
 
 pp.tick_params(axis="both",labelsize=14)
 
+print("Let's do it!")
 pp.show()
 

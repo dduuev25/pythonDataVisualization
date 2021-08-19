@@ -13,4 +13,6 @@ pp.scatter(x_values,y_values,s=1,c='red')  #s设置点的大小
 pp.xlabel(x_values)
 pp.ylabel(y_values)
 pp.savefig("D:\\datavisual\\001.png",bbox_inches="tight")
-#pp.show()
+
+
+pp.show()
